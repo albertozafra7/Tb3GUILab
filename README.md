@@ -6,14 +6,13 @@ This GUI can be used directly after its download just by running <a href="">Tb3G
 
 <h2>Prerequisites</h2>
 <div>
-  &#9744;
-- [ ] <strong>Matlab</strong> (for its development it has been used the latest version of Matlab, 2021b).
+  &#9744; <strong>Matlab</strong> (for its development it has been used the latest version of Matlab, 2021b).
 </div>
 <div>
-- [ ] <strong>Python 2.7 (recommended)</strong> or 3.X  depending on the Matlab installed version, python compatibility can be checked  <a href="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/python-compatibility.pdf">here</a>.
+&#9744; <strong>Python 2.7 (recommended)</strong> or 3.X  depending on the Matlab installed version, python compatibility can be checked  <a href="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/python-compatibility.pdf">here</a>.
   </div>
   <div>
-- [ ] <strong>ROS Toolbox for Matlab</strong>.
+&#9744; <strong>ROS Toolbox for Matlab</strong>.
   </div>
 
 
