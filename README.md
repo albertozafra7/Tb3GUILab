@@ -32,6 +32,6 @@ For disconnecting from the robot the user just needs to press the "connected" bu
 
 The *Manual Mode* allows the user to teleop the Turtlebot through a virtual "joystick" (It is just a set of state buttons), in order to ease the teleoperation process a lidar map and the robot camera are shown in the GUI window, as it is shown in the next video.
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![*Manual Mode*](/Pictures/Manual-Mode.gif)](https://drive.google.com/file/d/1BPtMOci_GTj1nfdoiA4JHb7sx_ISmwye/view?usp=sharing)
 
 
