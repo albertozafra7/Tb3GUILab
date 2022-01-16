@@ -1,7 +1,7 @@
 # Tb3GUILab
 Tb3GUILab is a graphical interface used for controlling the Turtlebot 3. This interface has been developed over MATLAB using the [ROS Toolbox](https://es.mathworks.com/products/ros.html).
 
-This GUI can be used directly after its download just by running <a href="https://github.com/albertozafra7/Tb3GUILab/blob/0fc50c6d0f1edbf9a2f4b65f916096fdbc6ff22c/Tb3Gui.mlapp">Tb3Gui.mlapp</a>.
+This GUI can be used directly after its download just by executing the <a href="https://github.com/albertozafra7/Tb3GUILab/blob/0fc50c6d0f1edbf9a2f4b65f916096fdbc6ff22c/Tb3Gui.mlapp">Tb3Gui.mlapp</a> archive.
 
 
 ## Prerequisites
