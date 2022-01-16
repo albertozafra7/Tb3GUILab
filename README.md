@@ -45,4 +45,12 @@ The *Go To Mode* is designed for performing a **simple navigation** in a previou
 
 The *Object Mode* implements an object follower example previously designed by [Mathworks](https://github.com/mathworks-robotics/getting-started-ros). It detects and follows a blue object. In addition the lineal and angular speed of the robot can be modified alongside to the distance between the robot and the object (Object Size) through the graphical interface.
 
+[![*Object Mode*](/Pictures/Object-Mode.gif)](https://drive.google.com/file/d/1vv5-c2QiQbav-wcHykIYWO_iRp0chHo9/view?usp=sharing)
 
+### Slam Mode
+
+The *Slam Mode* was create in order to generate the map of the environment where the robot is. Its main purpose is to generate the map through the data received form the lidar scan. The map that is being created can be seen at the graphical window while using this mode, this process will be saved even though if the mode is changed. This mode also has implemented a "joystick" for the manual movement of the robot. However, the camera is not shown in this tab, so proceed carefully while controlling the robot. Finally, if the map is not correctly created the user can discard that map and generate another by pressing the "reset" button. On the other hand, if the map is correctly done and the user wants to save it it could be done by pressing the "save" button. Doing this the map will be saved as "GeneratedMap" in three different extensions (.mat, .pgm and .png).
+
+[![*Slam Mode*](/Pictures/Slam-Mode.gif)](https://drive.google.com/file/d/1J4ZC-ucjJb-OSvKvcbgv6kjEAUk-S6qN/view?usp=sharing)
+
+Enjoy the program <3
