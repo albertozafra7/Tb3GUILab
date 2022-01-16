@@ -6,6 +6,7 @@ This GUI can be used directly after its download just by running <a href="">Tb3G
 
 <h2>Prerequisites</h2>
 <div>
+  &#9744;
 - [ ] <strong>Matlab</strong> (for its development it has been used the latest version of Matlab, 2021b).
 </div>
 <div>
