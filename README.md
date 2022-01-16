@@ -21,7 +21,17 @@ Before using the software, please also check the requeriments of the ROS Toolbox
 
 After running the program the main window will ask the user the IP of the robot that is going to be connected to the graphical interface. That IP has to be introduced in the **ROS IP** field, as it is shown in the following image.
 
-<p><img alt="Image" title="icon" src="Icon-pictures.png" /></p>
+<p align="center"><img alt="Image" title="IP_Addres" src="/Pictures/IP_Address.PNG" /></p>
 
+Once the user added the Ip Address, the "**disconnected**" button has to be pressed in order to connect to the remote robot. **Remember** if the robot it is not the Turtlebot 3, the line 462 has to be changed to "**turtleBotVersion = 2;**".
+When the robot connects to the GUI the label of the disconnected button will change to "connected", the lamp will turn green and all the switches of the modes will become enable.
+
+For disconnecting from the robot the user just needs to press the "connected" buton again. However, **if the robot gets disconnected while moving it will continue moving until endlessly**.
+
+### Manual Mode
+
+The *Manual Mode* allows the user to teleop the Turtlebot through a virtual "joystick" (It is just a set of state buttons), in order to ease the teleoperation process a lidar map and the robot camera are shown in the GUI window, as it is shown in the next video.
+
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 
