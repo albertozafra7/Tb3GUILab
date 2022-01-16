@@ -35,3 +35,6 @@ The *Manual Mode* allows the user to teleop the Turtlebot through a virtual "joy
 [![*Manual Mode*](/Pictures/Manual-Mode.gif)](https://drive.google.com/file/d/1BPtMOci_GTj1nfdoiA4JHb7sx_ISmwye/view?usp=sharing)
 
 
+### Go To Mode
+
+The *Go To Mode* is designed for performing a **simple navigation** in a previously mapped scenario, it uses the odometry in order to positionate the robot in the map. This map could be generated during the same execution of the program (by using the *Slam Mode*) or it could be loaded from a .mat, .pgm or .png file. However, those map files should be named as GeneratedMap.mat/.pgm/.png. The ideal use of this mode is to generate the map during the same execution. **This simple navigation usually does not works correctly**. Because it is still under development.
